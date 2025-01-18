@@ -1,14 +1,18 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-01-15"
-categories: [news]
+title: "Welcome to my Blog"
+author: "Siddarth Subrahmanian"
+date: "2025-01-18"
+categories: [tech]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Welcome!
 
-![](thumbnail.jpg)
+![](UBC%20profile.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Hi there!
+Welcome to my blog.
+Myself Siddarth Subrahmanian.I'm currently pursuing Masters in Data science from the University of British Columbia,Vancouver.
+I'm a software engineer with interests in Machine learning,Data science and AI.
+The blog post which i have written focus on leveraging data science to improve inclusion and diversity in organizations.
 
-Hello there!
+
