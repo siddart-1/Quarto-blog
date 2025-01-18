@@ -9,8 +9,8 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: Linked In
+        href: https://www.linkedin.com/in/siddarth-subrahmanian/
 format:
   html:
     theme: cosmo
